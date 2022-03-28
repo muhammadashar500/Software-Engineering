@@ -1,5 +1,5 @@
 # Software-Engineering
-# SE-109120-SPRING-2022: Course Repository ##
+# SE-109120-SPRING-2022: Course Project Repository ##
 ## Project Members ##
 StudentID   |   NAME
 ----------------------|-------------------------
@@ -9,4 +9,4 @@ StudentID   |   NAME
 
 
 ## Description ##
-This Repository Contains Project Files
+This repository contains the project files for the course, Software Engineering
